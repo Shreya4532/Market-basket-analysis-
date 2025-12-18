@@ -1,0 +1,11 @@
+trans_id,product_1,product_2,product_3
+1,Milk,Bread,Eggs
+2,Bread,Butter,Eggs
+3,Milk,Butter,Bread
+4,Bread,Milk,Eggs
+5,Milk,Eggs,Bread
+6,Butter,Bread,Eggs
+7,Milk,Eggs,Bread
+8,Bread,Butter,Eggs
+9,Butter,Milk,Eggs
+10,Milk,Bread,Butter
